@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![ArminArdisla's GitHub stats] (https://github-readme-stats.vercel.app/api?username=ArminArdisla&show_icons=true&theme=tokyonight)
+
 ## Willkommen auf meinem GitHub Profil
 
 ## Zwei Fachbereiche – eine Firma
