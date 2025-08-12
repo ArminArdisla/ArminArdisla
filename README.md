@@ -1,6 +1,8 @@
 # Hi there 👋
 
-![ArminArdisla's GitHub stats] (https://github-readme-stats.vercel.app/api?username=ArminArdisla&show_icons=true&theme=tokyonight)
+[![ArminArdisla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArminArdisla)](https://github.com/ArminArdisla/github-readme-stats)
+
+![ArminArdisla's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArminArdisla&show_icons=true&theme=radical)
 
 ## Willkommen auf meinem GitHub Profil
 
